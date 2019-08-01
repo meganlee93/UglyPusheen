@@ -1,0 +1,10 @@
+C:\Users\Megan Lee\source\repos\UglyPusheen\UglyPusheen\bin\Debug\UglyPusheen.exe.config
+C:\Users\Megan Lee\source\repos\UglyPusheen\UglyPusheen\bin\Debug\UglyPusheen.exe
+C:\Users\Megan Lee\source\repos\UglyPusheen\UglyPusheen\bin\Debug\UglyPusheen.pdb
+C:\Users\Megan Lee\source\repos\UglyPusheen\UglyPusheen\obj\Debug\UglyPusheen.csprojAssemblyReference.cache
+C:\Users\Megan Lee\source\repos\UglyPusheen\UglyPusheen\obj\Debug\UglyPusheen.Form1.resources
+C:\Users\Megan Lee\source\repos\UglyPusheen\UglyPusheen\obj\Debug\UglyPusheen.Properties.Resources.resources
+C:\Users\Megan Lee\source\repos\UglyPusheen\UglyPusheen\obj\Debug\UglyPusheen.csproj.GenerateResource.cache
+C:\Users\Megan Lee\source\repos\UglyPusheen\UglyPusheen\obj\Debug\UglyPusheen.csproj.CoreCompileInputs.cache
+C:\Users\Megan Lee\source\repos\UglyPusheen\UglyPusheen\obj\Debug\UglyPusheen.exe
+C:\Users\Megan Lee\source\repos\UglyPusheen\UglyPusheen\obj\Debug\UglyPusheen.pdb
